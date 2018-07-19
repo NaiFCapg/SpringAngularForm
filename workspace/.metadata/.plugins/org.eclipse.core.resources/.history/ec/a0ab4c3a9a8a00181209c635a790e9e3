@@ -1,0 +1,5 @@
+package com.globomatics.bike.models.copy;
+
+public class Bike {
+
+}
